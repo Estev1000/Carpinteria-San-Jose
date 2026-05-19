@@ -3,7 +3,8 @@ const ASSETS_TO_CACHE = [
   './',
   './index.html',
   './manifest.json',
-  './logo de carpinteria San Jose.png'
+  './logo de carpinteria San Jose.png',
+  './hero-bg.png'
 ];
 
 // Install event - cache essential files
