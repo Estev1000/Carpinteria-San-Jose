@@ -1,0 +1,46 @@
+{
+  "name": "Carpintería San José | Ariel Quevedo",
+  "short_name": "Carpintería",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#ffffff",
+  "theme_color": "#ea580c",
+  "description": "Carpintería San José de Ariel Quevedo. Muebles a medida, aberturas y trabajos en madera de alta calidad.",
+  "categories": ["business", "lifestyle"],
+  "icons": [
+    {
+      "src": "logo de carpinteria San Jose.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "logo de carpinteria San Jose.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "logo de carpinteria San Jose.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Pedir Presupuesto",
+      "short_name": "Presupuesto",
+      "description": "Solicita tu presupuesto por WhatsApp",
+      "url": "./?mode=quote",
+      "icons": [
+        {
+          "src": "logo de carpinteria San Jose.png",
+          "sizes": "192x192"
+        }
+      ]
+    }
+  ]
+}
