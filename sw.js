@@ -1,9 +1,11 @@
-const CACHE_NAME = 'carpinteria-jose-v1';
+const CACHE_NAME = 'carpinteria-jose-v2';
 const ASSETS_TO_CACHE = [
   './',
   './index.html',
   './manifest.json',
-  './logo de carpinteria San Jose.png',
+  './logo-carpinteria.png',
+  './icon-192x192.png',
+  './icon-512x512.png',
   './hero-bg.png'
 ];
 
